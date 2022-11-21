@@ -9,6 +9,7 @@ fn main() {
     WrongStyle();
     println!("{}", five);
     print_five();
+    println!();
 }
 
 fn WrongStyle() {
